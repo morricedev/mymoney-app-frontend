@@ -39,7 +39,7 @@ Lembrando que será necessário utilizar o backend disponobilizado neste [reposi
 
 ## 💻 Projeto
 
-My Money é perfeito para que as pessoas possam organizar e gerenciar as suas finanças.
+My Money é perfeito para que as pessoas consigam organizar e gerenciar as suas finanças de uma melhor forma.
 
 ---
 
