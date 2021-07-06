@@ -19,8 +19,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Clone o projeto e acesse a pasta do mesmo.
 
 ```bash
-$ git clone https://github.com/morricedev/todo-frontend
-$ cd todo-frontend
+$ git clone https://github.com/morricedev/mymoney-frontend
+$ cd mymoney-frontend
 ```
 
 Para iniciá-lo, siga os passos abaixo:
